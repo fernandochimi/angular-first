@@ -10,8 +10,10 @@
     "typings": "typings"
   },
   "licenses": [
-    "type": "MIT",
-    "link": "https://github.com/fernandochimi/angular-first"
+    {
+      "type": "MIT",
+      "link": "https://github.com/fernandochimi/angular-first"
+    } 
   ],
   "dependencies": {
     "@angular/common": "~2.1.0",
