@@ -3,7 +3,6 @@ services:
   web:
     restart: always
     build: .
-    ports:
     command: bash -c "cd /angular-first/angular_first/ && npm start"
     volumes:
       - .:/angular-first
