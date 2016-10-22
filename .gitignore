@@ -33,5 +33,16 @@ jspm_packages
 # Optional npm cache directory
 .npm
 
+# Optional eslint cache
+.eslintcache
+
 # Optional REPL history
 .node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+system-config.js*
+*.swp
+minotauro_report/**/*.js
+minotauro_report/**/*.map
