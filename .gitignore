@@ -44,5 +44,5 @@ jspm_packages
 
 system-config.js*
 *.swp
-angular-first/**/*.js
-angular-first/**/*.map
+*.js
+*.map
