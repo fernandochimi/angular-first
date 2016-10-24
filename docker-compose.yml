@@ -7,6 +7,5 @@ services:
     volumes:
       - .:/angular-first
       - /angular-first/angular_first/node_modules
-      - /angular-first/angular_first/typings
     ports:
       - "3000:3000"
