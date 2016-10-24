@@ -44,5 +44,5 @@ jspm_packages
 
 system-config.js*
 *.swp
-minotauro_report/**/*.js
-minotauro_report/**/*.map
+angular-first/**/*.js
+angular-first/**/*.map
